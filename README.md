@@ -1,6 +1,6 @@
 # cavern-under-gates
 
-Cavern under gates is a game that calculates the shortest path that allows a player to scram from the start to the end of a maze and allows the player
+Cavern under gates is a game that calculates the shortest path that allows a player to scram from the start to the end of a maze.
 
 ## Find-the-Orb Phase
 
